@@ -6,8 +6,7 @@ To insert the produts
 -----------------------
 kubectl get pods
 
-kubectl exec -it mysql-866657d588-s56fq    -- mysql -uroot -proot
-kubectl exec -it mysql-866657d588-s56fq -- mysql -uroot -proot
+kubectl exec -it mysql-866657d588-4xjtl  -- mysql -uroot -proot
 
 
 
