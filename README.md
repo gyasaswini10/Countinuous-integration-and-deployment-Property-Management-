@@ -31,7 +31,7 @@ spring.servlet.multipart.max-request-size=10MB
 server.port=8083
 
 # ============================
-# Database (Local MySQL)
+# Database (Local MySQL) 
 # ============================
 spring.datasource.url=jdbc:mysql://localhost:3306/prop
 spring.datasource.username=root
