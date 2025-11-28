@@ -3,7 +3,7 @@ kubectl logs deployment/backend
 
 
 To insert the produts
------------------------
+-------------------------
 kubectl get pods
 
 kubectl exec -it mysql-866657d588-4xjtl  -- mysql -uroot -proot
@@ -41,3 +41,4 @@ INSERT INTO roles (id, role, mid) VALUES
 (6, 2, 3),
 (7, 3, 2),
 (8, 3, 3);
+
